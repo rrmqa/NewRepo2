@@ -10,5 +10,7 @@ public class Practice1Call {
         System.out.println();
         Practice1 obj2 = new Practice1("MIT", true);
         System.out.println(obj2);
+
+
     }
 }
